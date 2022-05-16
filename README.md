@@ -1,4 +1,4 @@
-### Hi there :wave: I am Emre
+# Hi there :wave: I am Emre
 
 > I am a full stack web developer and working on to become a mobile developer (with flutter)
 
