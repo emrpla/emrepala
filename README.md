@@ -1,7 +1,5 @@
 # Hi there :wave: I am Emre
 
-> I am a full stack web developer and working on to become a mobile developer (with flutter)
-
 - I’m currently learning  Flutter.
 - Ask me about anything Python,Javascript and Dart.
 - You can reach me: [Linkedin](https://www.linkedin.com/in/emrepala/) or emrpla12@gmail.com
