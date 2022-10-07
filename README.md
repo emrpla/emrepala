@@ -1,7 +1,7 @@
 # Hi there :wave: I am Emre
 
-- I’m currently learning  Flutter.
-- Ask me about anything Python,Javascript and Dart.
+- I’m currently learning  Selenium.
+- Ask me about anything Python,Javascript,Dart or Test Automation.
 - You can reach me: [Linkedin](https://www.linkedin.com/in/emrepala/) or emrpla12@gmail.com
 
 ---
