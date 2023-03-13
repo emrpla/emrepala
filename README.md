@@ -1,7 +1,7 @@
 # Hi there :wave: I am Emre
 
 - I’m currently learning  Swift.
-- Ask me about anything Python,Dart or Test Automation.
+- Ask me about anything Python,Dart,Java or Test Automation.
 - You can reach me: [Linkedin](https://www.linkedin.com/in/emrepala/) or emrpla12@gmail.com
 
 ### Skills
