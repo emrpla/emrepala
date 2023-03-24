@@ -18,6 +18,4 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emrpla&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-
+![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrpla&show_icons=true&theme=transparent)
